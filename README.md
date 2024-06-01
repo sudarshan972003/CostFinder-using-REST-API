@@ -55,30 +55,30 @@ This project demonstrates a simple client-server architecture where:
    The server will be running at http://127.0.0.1:8000/.
 
 **Using the Application**
--Open your web browser and navigate to http://127.0.0.1:8000/.
--Enter the name of a fruit or vegetable in the input form and submit.
--View the cost of the entered item on the result page.
+- Open your web browser and navigate to http://127.0.0.1:8000/.
+- Enter the name of a fruit or vegetable in the input form and submit.
+- View the cost of the entered item on the result page.
 
 # Dependencies
--Django
--Django REST framework
--Requests
+- Django
+- Django REST framework
+- Requests
 
 # Important Files
 
 **Server**
--settings.py: Django settings file.
--urls.py: URL routing file.
--models.py: Defines the CostModel model.
--views.py: Contains the logic for the views.
--ser.py: Serializer for the CostModel.
+- settings.py: Django settings file.
+- urls.py: URL routing file.
+- models.py: Defines the CostModel model.
+- views.py: Contains the logic for the views.
+- ser.py: Serializer for the CostModel.
 
 **Client**
--settings.py: Django settings file.
--urls.py: URL routing file.
--views.py: Contains the logic for the views.
--templates/: Contains all HTML templates for the project.
--static/: Contains static files like CSS.
+- settings.py: Django settings file.
+- urls.py: URL routing file.
+- views.py: Contains the logic for the views.
+- templates/: Contains all HTML templates for the project.
+- static/: Contains static files like CSS.
 
 # Contributing
 Contributions are welcome! 
