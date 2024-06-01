@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <br>
+    <p>Article: {{ name }}</p>
+    {% if cost %}
+        <p>Cost: &#8377 {{ cost }}</p>
+    {% else %}
+        <p>Cost not found for {{ name }}</p>
+    {% endif %}
+    <br>
+    <button onclick="window.location.href='{% url 'index' %}'">Back</button>
+	<br><br><br>
+</div>
+{% endblock %}
