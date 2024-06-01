@@ -37,9 +37,7 @@ This project demonstrates a simple client-server architecture where:
 
 **Running the Server**:
     
-    ```
     cd cf_project
-    ```
     
 1) Set Up the Database:
     ```
@@ -58,9 +56,7 @@ This project demonstrates a simple client-server architecture where:
 
 **Running the Client**:
 
-    ```
     cd cfc_project
-    ```
     
 1) Start the client:
    ```
