@@ -36,6 +36,11 @@ This project demonstrates a simple client-server architecture where:
 # How to Run
 
 **Running the Server**:
+    
+    ```
+    cd cf_project
+    ```
+    
 1) Set Up the Database:
     ```
     python manage.py migrate
@@ -52,6 +57,11 @@ This project demonstrates a simple client-server architecture where:
    The server will be running at http://127.0.0.1:8000/.
 
 **Running the Client**:
+
+    ```
+    cd cfc_project
+    ```
+    
 1) Start the client:
    ```
    python manage.py runserver
