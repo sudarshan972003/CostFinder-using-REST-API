@@ -14,9 +14,13 @@ This project demonstrates a simple client-server architecture where:
 # Features
 
 **REST API**: Provides cost data for 30 different fruits and vegetables.
+
 **Client Application**: Allows users to input the name of a fruit or vegetable and fetch its cost.
+
 **Responsive Design**: Ensures the application works well on different screen sizes.
+
 **Simple Form Validation**: Ensures that the user inputs only alphabetic characters.
+
 
 # Installation
 
