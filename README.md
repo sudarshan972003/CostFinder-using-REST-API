@@ -13,7 +13,7 @@ This project demonstrates a simple client-server architecture where:
 
 # Features
 
-**API**: Built using REST Framework that provides cost data for 30 different fruits and vegetables.
+**Custom API**: Built using REST Framework that provides cost data for 30 different fruits and vegetables.
 
 **Client Application**: Allows users to input the name of a fruit or vegetable and fetch its cost.
 
