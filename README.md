@@ -2,7 +2,7 @@
 
 The Cost Finder App is a Django-based application that allows users to find the cost of various fruits and vegetables. 
 The project consists of two parts: 
-- A server that provides a REST API with the cost information
+- A server that provides an API with the cost information built using REST Framework.
 - A client application that fetches and displays this information based on user input.
 
 # Description
@@ -13,7 +13,7 @@ This project demonstrates a simple client-server architecture where:
 
 # Features
 
-**REST API**: Provides cost data for 30 different fruits and vegetables.
+**API**: Built using REST Framework that provides cost data for 30 different fruits and vegetables.
 
 **Client Application**: Allows users to input the name of a fruit or vegetable and fetch its cost.
 
