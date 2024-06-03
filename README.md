@@ -8,7 +8,7 @@ The project consists of two parts:
 # Description
 
 This project demonstrates a simple client-server architecture where:
-- The server hosts an API that returns the cost of various fruits and vegetables.
+- The server hosts an API built using REST Framework that returns the cost of various fruits and vegetables.
 - The client provides a user interface to input the name of a fruit or vegetable and displays the cost by making a request to the server's API.
 
 # Features
