@@ -39,15 +39,19 @@ This project demonstrates a simple client-server architecture where:
     
     cd cf_project
     
-1) Set Up the Database:
+1) Create a Superuser:
+    ```
+    python manage.py createsuperuser
+    ```
+    
+2) Set Up the Database:
+    ```
+    python manage.py makemigrations
+    ```
     ```
     python manage.py migrate
     ```
 
-2) Create a Superuser:
-    ```
-    python manage.py createsuperuser
-    ```
 3) Start the server:
    ```
    python manage.py runserver
