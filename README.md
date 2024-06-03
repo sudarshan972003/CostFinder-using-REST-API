@@ -1,6 +1,6 @@
 # FreshFare: Produce Price Lookup with REST Framework
 
-The Cost Finder App is a Django-based application that allows users to find the cost of various fruits and vegetables. 
+The FreshFare is a Django-based application that allows users to find the cost of various fruits and vegetables. 
 The project consists of two parts: 
 - A server that provides an API with the cost information built using REST Framework.
 - A client application that fetches and displays this information based on user input.
