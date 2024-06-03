@@ -1,4 +1,4 @@
-# CostFinder-using-REST Framework
+# Friuts & Vegatables CostFinder using REST Framework
 
 The Cost Finder App is a Django-based application that allows users to find the cost of various fruits and vegetables. 
 The project consists of two parts: 
